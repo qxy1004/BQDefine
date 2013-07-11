@@ -73,6 +73,7 @@
 #define kScreenStatusBarHeight 20
 #define kScreenNavigationBarHeight 44
 #define kScreenNavigationBarHeightLandScape (isPad?44:32)
+#define kScreenToolBarHeight 49
 //****************************************************************//****************************************************************//****************************************************************
 //Content Screen
 #define kContentHeight   ([UIScreen mainScreen].applicationFrame.size.height)
